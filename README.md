@@ -141,8 +141,8 @@ kernel_matrix = qkernel.evaluate(X_data)
 - **Quantum Kernel Performance**: 83.3% accuracy
 - **Novel Pattern Discovery**: Low correlation (0.635) with classical RBF kernels
 - **Quantum Advantage**: Explores different similarity space than classical methods
-<img width="1054" height="708" alt="Screenshot 2025-09-20 at 4 44 45 PM" src="https://github.com/user-attachments/assets/9170929f-dd16-453f-bb71-17ad3cfd0e30" />
 
+<img width="1017" height="745" alt="Screenshot 2025-09-20 at 4 45 09 PM" src="https://github.com/user-attachments/assets/df2b4eaa-1660-4261-a61c-652455ee6f19" />
 
 *Quantum kernel matrices showing unique similarity patterns*
 
@@ -155,7 +155,7 @@ kernel_matrix = qkernel.evaluate(X_data)
 | **Quantum Kernel SVM** | 83.3% | **Yes** | **Quantum similarity space** |
 | **Linear SVM** | 88.9% | No | Simple linear boundaries |
 
-<img width="1017" height="745" alt="Screenshot 2025-09-20 at 4 45 09 PM" src="https://github.com/user-attachments/assets/df2b4eaa-1660-4261-a61c-652455ee6f19" />
+<img width="1054" height="708" alt="Screenshot 2025-09-20 at 4 44 45 PM" src="https://github.com/user-attachments/assets/9170929f-dd16-453f-bb71-17ad3cfd0e30" />
 
 *Complete performance analysis showing quantum kernel explores different similarity patterns*
 
