@@ -1,10 +1,20 @@
-
+# Data handling
 pandas
 numpy
-rdkit-pypi
-pubchempy
-langchain
-transformers
-accelerate
 tqdm
 
+# Cheminformatics
+rdkit-pypi
+
+# Machine Learning
+scikit-learn
+matplotlib
+seaborn
+
+# Quantum Computing
+qiskit
+qiskit-aer
+qiskit-machine-learning
+
+# Optional / Future Extensions
+langchain==0.1.0
