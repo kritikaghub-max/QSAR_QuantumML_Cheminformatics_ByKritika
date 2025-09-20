@@ -133,8 +133,7 @@ kernel_matrix = qkernel.evaluate(X_data)
 - **Perfect Classification**: 100% accuracy on test set
 - **Feature Importance**: Identified key molecular descriptors
 - **Robust Model**: Random Forest with 100 estimators
-
-![Feature Importance](results/feature_importance_plot.png)
+<img width="923" height="434" alt="Screenshot 2025-09-20 at 4 46 12 PM" src="https://github.com/user-attachments/assets/85f502d3-f407-4c0a-a39c-002119b590a0" />
 
 *Top molecular descriptors contributing to analgesic classification*
 
@@ -142,8 +141,8 @@ kernel_matrix = qkernel.evaluate(X_data)
 - **Quantum Kernel Performance**: 83.3% accuracy
 - **Novel Pattern Discovery**: Low correlation (0.635) with classical RBF kernels
 - **Quantum Advantage**: Explores different similarity space than classical methods
+<img width="1054" height="708" alt="Screenshot 2025-09-20 at 4 44 45 PM" src="https://github.com/user-attachments/assets/9170929f-dd16-453f-bb71-17ad3cfd0e30" />
 
-![Quantum Kernel Analysis](results/quantum_kernel_heatmaps.png)
 
 *Quantum kernel matrices showing unique similarity patterns*
 
@@ -156,7 +155,7 @@ kernel_matrix = qkernel.evaluate(X_data)
 | **Quantum Kernel SVM** | 83.3% | **Yes** | **Quantum similarity space** |
 | **Linear SVM** | 88.9% | No | Simple linear boundaries |
 
-![Performance Results](results/quantum_vs_classical_comparison.png)
+<img width="1017" height="745" alt="Screenshot 2025-09-20 at 4 45 09 PM" src="https://github.com/user-attachments/assets/df2b4eaa-1660-4261-a61c-652455ee6f19" />
 
 *Complete performance analysis showing quantum kernel explores different similarity patterns*
 
