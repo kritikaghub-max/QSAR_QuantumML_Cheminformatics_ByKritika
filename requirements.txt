@@ -1,0 +1,10 @@
+
+pandas
+numpy
+rdkit-pypi
+pubchempy
+langchain
+transformers
+accelerate
+tqdm
+
